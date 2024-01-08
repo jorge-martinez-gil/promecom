@@ -48,7 +48,6 @@ This dataset can be utilized in various ways:
             "choices": ["Piston", "Water pump", "Cylinder", "Valve"],
             "correct_answer": "Water pump"
         },
-        ...
     ]
 }
 ```
