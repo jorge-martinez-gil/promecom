@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What device is used to recycle the boiler water in steam engines?",
+            "choices": ["Piston", "Water pump", "Cylinder", "Valve"],
+            "correct_answer": "Water pump"
+        },
+        {
+            "question": "What is needed to make combustion happen?",
+            "choices": ["Condenser", "Crankcase", "Aluminum alloys", "Ignition event"],
+            "correct_answer": "Ignition event"
+        },
+        {
+            "question": "What sort of motion does a steam engine continuously produce?",
+            "choices": ["Rotary", "Linear", "Reciprocating", "Oscillating"],
+            "correct_answer": "Rotary"
+        },
+        {
+            "question": "What are the stages in a compound engine called?",
+            "choices": ["Seasons", "Chain changes", "Expansions", "Shortcuts"],
+            "correct_answer": "Expansions"
+        },
+        {
+            "question": "Where is the combustible material burned in the engine?",
+            "choices": ["Steam turbine", "Firebox", "Steel chamber", "Muffler"],
+            "correct_answer": "Firebox"
+        },
+        {
+            "question": "What device is a dry cooling tower similar to?",
+            "choices": ["Automobile radiator", "Piston ring", "Connecting rod", "PCV valve"],
+            "correct_answer": "Automobile radiator"
+        },
+        {
+            "question": "What is another term for rotors?",
+            "choices": ["Tractors", "Rotating discs", "Steering gears", "Spokes"],
+            "correct_answer": "Rotating discs"
+        },
+        {
+            "question": "In an atmospheric engine, what does air pressure push against?",
+            "choices": ["Condenser", "Seal", "Plug Valve", "Piston"],
+            "correct_answer": "Piston"
+        },
+        {
+            "question": "What is an example of a pump component?",
+            "choices": ["Yoke", "Gearbox", "Injector", "Bunker"],
+            "correct_answer": "Injector"
+        },
+        {
+            "question": "What is a term that means constant temperature?",
+            "choices": ["Isothermal", "Heat capacity", "Combustion", "Steam"],
+            "correct_answer": "Isothermal"
+        }
+    ]
+}
